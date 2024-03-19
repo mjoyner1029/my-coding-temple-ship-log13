@@ -1,0 +1,1 @@
+add some intriging way to use compass in navigation
