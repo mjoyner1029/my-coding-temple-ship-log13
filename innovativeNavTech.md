@@ -1,1 +1,1 @@
-find innovative nav techs
+find innovative navigation techniques
